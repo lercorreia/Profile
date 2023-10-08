@@ -9,7 +9,7 @@
 ## Links do Haboovit
 
 * [Link do instagram do Haboovit](https://instagram.com/haboovit)
-* [Link da plataforma Haboovit(incompleto)](https://haboovit.herokuapp.com/)
+* FORA DO AR [Link da plataforma Haboovit(incompleto)](https://haboovit.herokuapp.com/)
 
 
 ## Statup Tem vaga
