@@ -19,5 +19,5 @@
 * [Link do instagram do Tem vaga](https://instagram.com/temvaga.app)
 * [link da plataforma Tem vaga](https://temvaga.app)
 
- > Por ter aprendido bastante o lado "business" durante a criação desses serviços, estou voltando a focar na progamação e continuando os meus estudos (embora eu não tenha parado kkkk).
+ > Por ter aprendido bastante o lado "business" durante a criação desses serviços, estou voltando a focar na progamação e continuando os meus estudos (embora eu nunca tenha parado kkkk).
 
